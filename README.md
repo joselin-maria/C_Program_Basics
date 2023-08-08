@@ -4,3 +4,9 @@ Welcome to the "Basic C Programming Codes" repository! This repository serves as
 Here's an overview of what you'll find in this repository:
 - **Hello World:** The classic "Hello, World!" program.
 - **Variables and Data Types:** Examples of working with different data types and variables.
+  1. Addition of two integers
+  2. Average of 10 integers
+  3. Square of two integers
+  4. Computing distance between two points taking input from the user(Pythagorean Theorem)
+  5. Checking whether the given number is an even number or not.
+ 
