@@ -8,5 +8,7 @@ Here's an overview of what you'll find in this repository:
   2. Average of 10 integers
   3. Square of two integers
   4. Computing distance between two points taking input from the user(Pythagorean Theorem)
-  5. Checking whether the given number is an even number or not.
+  5. Simple Calculator
+  6. Computing area of a rectangle
+  7. Displaying the largest integer between three
  
