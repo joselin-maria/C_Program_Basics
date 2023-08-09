@@ -11,4 +11,25 @@ Here's an overview of what you'll find in this repository:
   5. Simple Calculator
   6. Computing area of a rectangle
   7. Displaying the largest integer between three
- 
+- **Looping Statements **
+  + For loop
+    1. Factorial Calculation
+    2. Fibonacci Series
+    3. Print out the decimal equivalents of 1/2, 1/3, 1/4, . . . ,1/10.
+    4. loops over a sequence
+    5. By considering the terms in the Fibonacci sequence whose values do not exceed four million,find the sum of the even-valued terms
+    6. Prime Number Check
+  
+  + While loop
+    1. Sum of Natural Numbers
+    2. Reverse a Number
+    3. Palindrome Check
+    4. Table of a Number
+    5. Count Digits in a Number
+    6. Power Calculation
+    7. Asks the user for a number, and print a countdown from that number to zero
+       
+  + Do....while loop
+    1. Sum of Digits
+    2. Number Reversa
+    3. Factorial Calculation
